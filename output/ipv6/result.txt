@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-03-05 19:06:38,http://pull-hls-f11.douyincdn.com/media/stream-118899562654991020.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773218365&major_anchor_level=common&sign=821612d0a7b01fb226f8f39d97d19fc2&t_id=037-20260304163924497A73460AD8D5D628AF-n87Lsu
+2026-03-06 07:00:03,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
-CCTV-2,http://pull-hls-f11.douyincdn.com/media/stream-118899562654991020.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773218365&major_anchor_level=common&sign=821612d0a7b01fb226f8f39d97d19fc2&t_id=037-20260304163924497A73460AD8D5D628AF-n87Lsu
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695417071207187116.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773208553&major_anchor_level=common&sign=5e5791d5483cd383acea72b3a02bfd3c&t_id=037-202603041355521C4B9417BEA02331B2FB-H5hoZx
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
@@ -45,7 +44,6 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 ☘️江苏频道,#genre#
 新沂新闻,http://live.xysrmt.cn/xwzh/sd/live.m3u8?zjiangsd"
 新沂生活,http://live.xysrmt.cn/shpd/sd/live.m3u8?zjiangsd
-无锡新闻综合,http://m.m3u8.wifiwx.com/live/wifiwx-239.m3u8?zjiangsd
 淮阴综合,https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8
 
 ☘️辽宁频道,#genre#
@@ -151,13 +149,14 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 🌊港·澳·台,#genre#
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 明珠台,https://o11.163189.xyz/stream/tvb/mzt/
-凤凰中文,http://cdn6.163189.xyz/163189/fhzw
-凤凰中文,https://cdn6.163189.xyz/163189/fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰中文,https://cdn6.163189.xyz/163189/fhzw
+凤凰中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 Now剧集,http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9HvmJFzg3XN8JiR27kog.flv
 靖天资讯,http://pullpackage.alivecdn.com/live/jSi62v69ef4x6iYBScl4GTgr9WaWuRtR1v7DfyIDrCzlEjd4oO.flv
@@ -169,11 +168,8 @@ Now剧集,http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9Hv
 靖天映画,http://pullpackage.alivecdn.com/live/hTZYTLKukHNqDnshCwsOBdnFoZs5a4UeCJ396iYBSzJGOEv6kg.flv
 靖天映画,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055
 靖天映画,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv055
-靖天戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058
-靖天戏剧,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv058
 天映经典,https://o11.163189.xyz/stream/live/ccm/
 无线星河,https://cdn6.101.qzz.io/163189/tvbxh
-无线星河,https://smt.1678520.xyz/smt3.2.1.php?id=Xinhe
 东森洋片,http://pullpackage.alivecdn.com/live/kik9tNVo2R9KMDD687bFX3vtLMD4Lwg69y94g8XKH40P1BOa5U.flv
 
 🎥咪咕直播,#genre#
@@ -184,21 +180,23 @@ Now剧集,http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9Hv
 睛彩广场舞,https://iptv.catvod.com/live.php?id=%E7%9D%9B%E5%BD%A9%E5%B9%BF%E5%9C%BA%E8%88%9E
 
 🪁动画频道,#genre#
+七龙珠,http://cdn.jdshipin.com:8880/huya.php?id=11601966
+七龙珠,https://live.metshop.top/huya/11601966
 火影忍者,http://cdn.jdshipin.com:8880/huya.php?id=29465866
-中华小当家,https://live.metshop.top/huya/11342413
-中华小当家,http://cdn.jdshipin.com:8880/huya.php?id=11342413
+海绵宝宝,https://live.metshop.top/douyu/3949681
+猫和老鼠,https://live.metshop.top/huya/11352879
 猫和老鼠,http://cdn.jdshipin.com:8880/huya.php?id=11352879
+猫和老鼠,https://live.ottiptv.cc/huya/11352879
 漫画解说,https://www.goodiptv.club/douyu/5907076
 
 🎮游戏频道,#genre#
-游戏风云,https://www.freetv.top/migu/790188417.m3u8?migutoken=0276ef43726b0a3df46f95059cfba0dc88fb58e0682005aef78c7fcce5c7101a4d1199cd5aa05c58eaed75bf3a107385ce216cf787ceb58c1839c276b121b05b72a1ec8d7c6f23c240511643c0
 
 🎵音乐频道,#genre#
 
 🏛经典剧场,#genre#
-笑傲江湖,http://cdn.jdshipin.com:8880/huya.php?id=23865142
 笑傲江湖,https://live.ottiptv.cc/huya/23865142
+笑傲江湖,http://cdn.jdshipin.com:8880/huya.php?id=23865142
 西游记,http://cdn.jdshipin.com:8880/huya.php?id=30080242
 射雕英雄传,https://live.metshop.top/huya/23824164
-射雕英雄传,http://cdn.jdshipin.com:8880/huya.php?id=23824164
 射雕英雄传,https://live.ottiptv.cc/huya/23824164
+射雕英雄传,http://cdn.jdshipin.com:8880/huya.php?id=23824164
